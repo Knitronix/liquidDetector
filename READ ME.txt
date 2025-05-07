@@ -1,0 +1,3 @@
+DEMO h2o A 4 ZONE
+bluetooth name: HC-06 
+bluetooth pwd: 1234
